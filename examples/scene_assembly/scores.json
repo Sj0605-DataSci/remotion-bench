@@ -1,0 +1,7 @@
+{
+  "coherence": 3,
+  "fidelity": 3,
+  "technical_quality": 3,
+  "reasoning": "The agent's cut reads as a plausible action/reaction sequence (gun raised, wide-eyed reaction) with clean frames and no black artifacts, but its emphasis on the confrontation diverges from the reference's framing, which foregrounds the countdown/clock-and-EXIT time motif, so fidelity to the reference's specific shot selection is only moderate.",
+  "model": "qwen3.8:27b"
+}

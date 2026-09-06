@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+out.mp4
+timeline.json
+subtitles.json
+text_overlays.json
+audio_tracks.json
+composition_config.json
+_frame_*.jpg

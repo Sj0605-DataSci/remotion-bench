@@ -1,0 +1,619 @@
+{
+  "video_id": "1cHRBd6l2UM",
+  "movie_id": "tt0119395",
+  "n_shots": 73,
+  "shots_in_order": [
+    {
+      "start": 1.04,
+      "end": 2.59,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut",
+        "j-cut"
+      ],
+      "clip_id": "23aef272-e1ac-4df8-831b-924a646b5062",
+      "file": "clip_548bff1c.mp4"
+    },
+    {
+      "start": 2.63,
+      "end": 6.05,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "17941814-1bbf-402d-ac84-f9c30d2ed3b0",
+      "file": "clip_8c8e2a70.mp4"
+    },
+    {
+      "start": 6.09,
+      "end": 7.34,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "b9b01467-b433-4b63-a842-daf39fbbdd8e",
+      "file": "clip_78b4c754.mp4"
+    },
+    {
+      "start": 7.38,
+      "end": 13.56,
+      "file": "clip_57f7ca7c.mp4"
+    },
+    {
+      "start": 13.6,
+      "end": 15.68,
+      "cut_type_after": [
+        "cut-away",
+        "l-cut"
+      ],
+      "clip_id": "66e9b7c1-0890-46f7-ab98-f740400f5342",
+      "file": "clip_ad1e7157.mp4"
+    },
+    {
+      "start": 15.72,
+      "end": 18.69,
+      "cut_type_after": [
+        "cut-away",
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "7e23257a-2863-4654-b707-1d16751482dc",
+      "file": "clip_5e822c1f.mp4"
+    },
+    {
+      "start": 18.73,
+      "end": 19.85,
+      "file": "clip_8a1a5906.mp4"
+    },
+    {
+      "start": 31.45,
+      "end": 33.91,
+      "cut_type_after": [],
+      "clip_id": "bb8bb576-1f1e-45cd-b0b9-8246291c77de",
+      "file": "clip_95d6073a.mp4"
+    },
+    {
+      "start": 33.95,
+      "end": 36.16,
+      "cut_type_after": [],
+      "clip_id": "28a85da9-f982-4624-a2c2-2265ac272127",
+      "file": "clip_dc102f5a.mp4"
+    },
+    {
+      "start": 36.2,
+      "end": 39.5,
+      "cut_type_after": [
+        "speaker-change"
+      ],
+      "clip_id": "0fbaa026-dcab-4b5a-8166-b0df7eb302a1",
+      "file": "clip_47984c36.mp4"
+    },
+    {
+      "start": 39.54,
+      "end": 41.96,
+      "cut_type_after": [
+        "speaker-change"
+      ],
+      "clip_id": "198630b6-88cf-4e35-a82f-7cb60f4d0308",
+      "file": "clip_4279f059.mp4"
+    },
+    {
+      "start": 42.0,
+      "end": 43.84,
+      "file": "clip_9b448136.mp4"
+    },
+    {
+      "start": 43.88,
+      "end": 45.17,
+      "cut_type_after": [
+        "cut-on-action"
+      ],
+      "clip_id": "22a0ea4c-de32-4bf1-8017-b5337bc07e41",
+      "file": "clip_41922a14.mp4"
+    },
+    {
+      "start": 45.21,
+      "end": 47.42,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "79977965-97fa-488b-b673-6a233ff1407a",
+      "file": "clip_3ceabd31.mp4"
+    },
+    {
+      "start": 47.46,
+      "end": 48.88,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "c7a17d1f-7686-4737-b13d-2c29f0dffc7a",
+      "file": "clip_501391f6.mp4"
+    },
+    {
+      "start": 48.92,
+      "end": 50.55,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut",
+        "j-cut"
+      ],
+      "clip_id": "212b6e1a-abc7-47b3-b4c8-d35fa7090522",
+      "file": "clip_f5766647.mp4"
+    },
+    {
+      "start": 50.59,
+      "end": 52.3,
+      "cut_type_after": [
+        "cross-cut",
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "9a018749-eb5a-49a6-b78f-f0e3cfb21586",
+      "file": "clip_1d8847a7.mp4"
+    },
+    {
+      "start": 52.34,
+      "end": 53.97,
+      "file": "clip_b038ca11.mp4"
+    },
+    {
+      "start": 54.01,
+      "end": 56.06,
+      "cut_type_after": [
+        "cross-cut",
+        "speaker-change"
+      ],
+      "clip_id": "c2da384c-cb1b-4cd0-b607-8cc8421e85b3",
+      "file": "clip_ba288720.mp4"
+    },
+    {
+      "start": 56.1,
+      "end": 57.43,
+      "cut_type_after": [
+        "cross-cut",
+        "speaker-change"
+      ],
+      "clip_id": "7c18854d-69b2-44d8-a1fd-275aafad71e6",
+      "file": "clip_37873e8c.mp4"
+    },
+    {
+      "start": 57.47,
+      "end": 60.14,
+      "cut_type_after": [
+        "cross-cut",
+        "j-cut",
+        "speaker-change"
+      ],
+      "clip_id": "9b33dca1-7929-4e22-b0cb-27b671709f08",
+      "file": "clip_9081c117.mp4"
+    },
+    {
+      "start": 60.19,
+      "end": 61.48,
+      "cut_type_after": [
+        "cross-cut",
+        "match-cut"
+      ],
+      "clip_id": "a37a21bc-032d-4df9-8d45-aef09c09b70b",
+      "file": "clip_88732fb8.mp4"
+    },
+    {
+      "start": 61.52,
+      "end": 62.73,
+      "cut_type_after": [
+        "cut-on-action"
+      ],
+      "clip_id": "669f596d-1668-415e-af53-cc66459df74c",
+      "file": "clip_5074a5d7.mp4"
+    },
+    {
+      "start": 62.77,
+      "end": 66.57,
+      "cut_type_after": [
+        "cross-cut",
+        "smash-cut"
+      ],
+      "clip_id": "7d79176c-65c5-473f-8ce5-838395c6863f",
+      "file": "clip_8dfeb219.mp4"
+    },
+    {
+      "start": 66.61,
+      "end": 67.98,
+      "file": "clip_b0966eba.mp4"
+    },
+    {
+      "start": 70.2,
+      "end": 71.28,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut",
+        "speaker-change"
+      ],
+      "clip_id": "35211264-ff9a-4200-87dc-4e8ff0ed63a4",
+      "file": "clip_8bf927a0.mp4"
+    },
+    {
+      "start": 71.32,
+      "end": 73.36,
+      "cut_type_after": [
+        "speaker-change"
+      ],
+      "clip_id": "a913becf-fe8d-495a-9b4d-be7a17d306e8",
+      "file": "clip_73cdda7e.mp4"
+    },
+    {
+      "start": 73.41,
+      "end": 75.41,
+      "file": "clip_69994617.mp4"
+    },
+    {
+      "start": 75.45,
+      "end": 76.87,
+      "cut_type_after": [
+        "cross-cut",
+        "speaker-change"
+      ],
+      "clip_id": "61316891-e05a-452a-a603-47b9be53686b",
+      "file": "clip_aa149e5d.mp4"
+    },
+    {
+      "start": 76.91,
+      "end": 79.95,
+      "cut_type_after": [
+        "emphasis/deemphasis"
+      ],
+      "clip_id": "2a6fbe7b-eb5f-4ed8-9e72-fb0204b7eaf8",
+      "file": "clip_1fefb439.mp4"
+    },
+    {
+      "start": 80.0,
+      "end": 81.33,
+      "cut_type_after": [
+        "cross-cut",
+        "speaker-change"
+      ],
+      "clip_id": "7e88b1af-5c3c-4419-84fa-dcf5fa983eb1",
+      "file": "clip_b12e15ad.mp4"
+    },
+    {
+      "start": 81.37,
+      "end": 83.37,
+      "cut_type_after": [
+        "cross-cut",
+        "speaker-change"
+      ],
+      "clip_id": "bcf11ec5-ca5b-44c1-85db-c7f4fd373f69",
+      "file": "clip_ce1958a3.mp4"
+    },
+    {
+      "start": 83.42,
+      "end": 86.8,
+      "cut_type_after": [
+        "cross-cut",
+        "l-cut"
+      ],
+      "clip_id": "18f49bac-8cc7-4128-bc16-4731c799df41",
+      "file": "clip_3e1849c4.mp4"
+    },
+    {
+      "start": 86.84,
+      "end": 88.17,
+      "cut_type_after": [],
+      "clip_id": "9a064a59-2035-424e-a72c-6f6e9553a6d1",
+      "file": "clip_515c2fd9.mp4"
+    },
+    {
+      "start": 88.21000000000002,
+      "end": 89.88,
+      "cut_type_after": [
+        "cross-cut"
+      ],
+      "clip_id": "d3b37acf-9c46-442c-a033-8112e5f425c3",
+      "file": "clip_069cef96.mp4"
+    },
+    {
+      "start": 89.92,
+      "end": 91.63,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "872e5b1c-705a-43d0-b528-55d606431380",
+      "file": "clip_676d2099.mp4"
+    },
+    {
+      "start": 91.67,
+      "end": 93.26,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "2eff99b9-18c1-42e7-b996-cd7d047a568e",
+      "file": "clip_01d13003.mp4"
+    },
+    {
+      "start": 93.3,
+      "end": 95.47,
+      "cut_type_after": [
+        "cut-on-action"
+      ],
+      "clip_id": "3e3b8606-b801-4c63-bf79-6c2a55f983af",
+      "file": "clip_b800ac95.mp4"
+    },
+    {
+      "start": 95.51,
+      "end": 98.72,
+      "cut_type_after": [
+        "cut-on-action"
+      ],
+      "clip_id": "a0f28c1d-dbb6-437a-9965-7bddd1319295",
+      "file": "clip_7c9cca81.mp4"
+    },
+    {
+      "start": 98.77,
+      "end": 101.73,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut",
+        "speaker-change"
+      ],
+      "clip_id": "d0ed316f-938d-4675-87e4-dd3d4aaf5347",
+      "file": "clip_cfb94430.mp4"
+    },
+    {
+      "start": 101.77,
+      "end": 103.65,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut",
+        "l-cut"
+      ],
+      "clip_id": "cb60541b-34ca-4489-a3d3-7135596c5130",
+      "file": "clip_b81a98ee.mp4"
+    },
+    {
+      "start": 103.69,
+      "end": 105.23,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "193c211a-f17e-4a78-9cae-c61166b32a78",
+      "file": "clip_dedf318c.mp4"
+    },
+    {
+      "start": 105.27,
+      "end": 106.9,
+      "cut_type_after": [],
+      "clip_id": "b55af37d-ee77-40f2-b000-e33428cdf3f7",
+      "file": "clip_8a598290.mp4"
+    },
+    {
+      "start": 106.94,
+      "end": 108.82,
+      "file": "clip_76eeb417.mp4"
+    },
+    {
+      "start": 114.95,
+      "end": 117.2,
+      "cut_type_after": [],
+      "clip_id": "5a846e76-272a-439b-81ae-3fb3206a1d65",
+      "file": "clip_925c3113.mp4"
+    },
+    {
+      "start": 117.24,
+      "end": 119.83,
+      "file": "clip_5621b6b2.mp4"
+    },
+    {
+      "start": 120.83,
+      "end": 122.16,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut",
+        "speaker-change"
+      ],
+      "clip_id": "4ed0a5c3-61c1-4f14-acf4-535eb0434e73",
+      "file": "clip_93ff219b.mp4"
+    },
+    {
+      "start": 122.21,
+      "end": 123.54,
+      "cut_type_after": [
+        "j-cut"
+      ],
+      "clip_id": "87edc7ae-4c18-42ce-855e-321d01c8d234",
+      "file": "clip_a0bd8657.mp4"
+    },
+    {
+      "start": 123.58,
+      "end": 125.42,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut",
+        "speaker-change"
+      ],
+      "clip_id": "04878573-9821-40bf-8d6c-d6b29f18062f",
+      "file": "clip_df4649fb.mp4"
+    },
+    {
+      "start": 125.46,
+      "end": 128.29,
+      "cut_type_after": [
+        "emphasis/deemphasis"
+      ],
+      "clip_id": "4d147b2b-ea24-4080-acbb-dd36a5a2675a",
+      "file": "clip_5cc6881b.mp4"
+    },
+    {
+      "start": 128.34,
+      "end": 130.21,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "0977b9af-e2b5-47e8-a6a9-5740e7c33aab",
+      "file": "clip_8d4aa598.mp4"
+    },
+    {
+      "start": 130.26,
+      "end": 132.47,
+      "cut_type_after": [
+        "cut-on-action",
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "049606d5-dcae-4fa0-b3e7-e471ed42f584",
+      "file": "clip_aeeb71dd.mp4"
+    },
+    {
+      "start": 132.51,
+      "end": 134.43,
+      "cut_type_after": [
+        "cut-on-action",
+        "emphasis/deemphasis"
+      ],
+      "clip_id": "43911a50-0e7d-4f2a-9d02-9b184ec06f6b",
+      "file": "clip_94f4002b.mp4"
+    },
+    {
+      "start": 134.47,
+      "end": 138.72,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "8ed3e9bb-15b8-4399-beda-aa07ff6a087f",
+      "file": "clip_6c661295.mp4"
+    },
+    {
+      "start": 138.76,
+      "end": 139.89,
+      "file": "clip_5210c868.mp4"
+    },
+    {
+      "start": 141.56,
+      "end": 142.64,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "a4a917fa-6232-44cf-bd15-01b1fb52f04c",
+      "file": "clip_22290e86.mp4"
+    },
+    {
+      "start": 142.68,
+      "end": 144.98,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "feb8d71e-6d1f-4aee-b0bb-2c84359ce288",
+      "file": "clip_6192432a.mp4"
+    },
+    {
+      "start": 145.02,
+      "end": 146.56,
+      "cut_type_after": [],
+      "clip_id": "da8eb63a-dd27-4ded-bf9f-3f1b6d2efdb7",
+      "file": "clip_29609beb.mp4"
+    },
+    {
+      "start": 146.6,
+      "end": 148.02,
+      "cut_type_after": [
+        "speaker-change"
+      ],
+      "clip_id": "03ef2645-fbc8-46eb-a5c5-7a536b5ba135",
+      "file": "clip_8cf69f70.mp4"
+    },
+    {
+      "start": 148.06,
+      "end": 149.32,
+      "file": "clip_64a36532.mp4"
+    },
+    {
+      "start": 150.82,
+      "end": 151.86,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "a3d90592-2106-4438-99ef-e8ac0e3f7442",
+      "file": "clip_c57beebb.mp4"
+    },
+    {
+      "start": 151.9,
+      "end": 153.03,
+      "file": "clip_54f3663a.mp4"
+    },
+    {
+      "start": 159.87,
+      "end": 161.57999999999996,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut",
+        "speaker-change"
+      ],
+      "clip_id": "b36a8a9e-64ec-4ce0-ba8d-f34475a0569c",
+      "file": "clip_5ea4f009.mp4"
+    },
+    {
+      "start": 161.62,
+      "end": 163.12,
+      "cut_type_after": [
+        "speaker-change"
+      ],
+      "clip_id": "2f479b4d-9b8d-4e29-be95-40ee46b72a14",
+      "file": "clip_08eea69d.mp4"
+    },
+    {
+      "start": 163.16,
+      "end": 164.79,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "dbd40956-91c1-4d64-ae19-6bde95828069",
+      "file": "clip_1fb4085e.mp4"
+    },
+    {
+      "start": 164.82999999999996,
+      "end": 166.25,
+      "file": "clip_ac538d69.mp4"
+    },
+    {
+      "start": 166.29,
+      "end": 167.82999999999996,
+      "cut_type_after": [
+        "reaction-in/reaction-out-cut",
+        "speaker-change"
+      ],
+      "clip_id": "f0dbc744-fc3a-45ef-8723-b28dc9613d7d",
+      "file": "clip_37f1537a.mp4"
+    },
+    {
+      "start": 167.88,
+      "end": 170.13,
+      "cut_type_after": [
+        "speaker-change"
+      ],
+      "clip_id": "a59f2469-356a-42ac-a973-2315caf0bfb6",
+      "file": "clip_6dd7c055.mp4"
+    },
+    {
+      "start": 170.17000000000004,
+      "end": 171.5,
+      "cut_type_after": [],
+      "clip_id": "e827de81-745e-430c-99e8-15b59a6332e6",
+      "file": "clip_81ab96de.mp4"
+    },
+    {
+      "start": 171.55,
+      "end": 173.21,
+      "file": "clip_a2aaae92.mp4"
+    },
+    {
+      "start": 173.26,
+      "end": 174.84,
+      "cut_type_after": [
+        "cut-away"
+      ],
+      "clip_id": "5cf92d0e-dacd-4f95-ac26-436e3988f42e",
+      "file": "clip_4e6aba98.mp4"
+    },
+    {
+      "start": 174.88,
+      "end": 176.22,
+      "cut_type_after": [
+        "cut-away",
+        "reaction-in/reaction-out-cut"
+      ],
+      "clip_id": "9180b333-e4b1-4a79-a7c2-77a51eb48e7b",
+      "file": "clip_e71ee57e.mp4"
+    },
+    {
+      "start": 176.26,
+      "end": 177.89,
+      "file": "clip_6ae1ef4e.mp4"
+    }
+  ]
+}

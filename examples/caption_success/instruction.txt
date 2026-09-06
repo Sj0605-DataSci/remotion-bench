@@ -1,0 +1,1 @@
+Add accurate, well-timed subtitles to dialogue_clip.mp4. Subtitles should be synced closely to the spoken dialogue -- no dead air captioned, no speech left uncaptioned, and don't merge unrelated lines into one subtitle.
