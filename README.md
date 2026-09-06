@@ -166,6 +166,22 @@ Grounded in three papers on harness self-improvement (see Citations):
 The reframe result is reported as a ceiling, not smoothed over: this benchmark's job is to find
 where the real limit is, not to keep patching until every number looks good.
 
+## Example harness outputs
+
+Every file below is a real rendered `.mp4` from a real harness run, not a mock-up. Where a
+model comparison exists, the failing model's row has no video because it genuinely never
+reached `render()` — that absence is itself the result, not a missing upload.
+
+| folder | what it shows | video | scores |
+|---|---|---|---|
+| `examples/caption_model_comparison/` | `llama3.1:8b` vs `gemma4:e4b` on the same caption task | `gemma_output_100pct_coverage.mp4` — real burned-in captions, synced to real ASR timing | `gemma_scores.json`: 100% speech coverage, 0% dead air. `llama_scores_never_rendered.json`: 0/10 captions — llama transcribed but never called `add_captions` |
+| `examples/audio_mix_model_comparison/` | same comparison, ducking task | `gemma_output.mp4` — real mixed audio | `gemma_scores.json`: speech volume −22.28dB (up from −26.23dB baseline). `llama_scores_never_rendered.json`: never rendered |
+| `examples/cut_assembly/` | agent chooses among real MovieCuts shots + real pulled distractors | `output.mp4` | `scores.json`: picked the correct shot, but also included a distractor (partial win, open scoring question) |
+| `examples/shot_ordering/` | 73-shot reassembly stress test | `output.mp4` | `scores.json`: 62.5% order accuracy on the 9/73 shots it chose to place |
+| `examples/scene_assembly/` | generation task: assemble 8 real shots vs. the real professional cut of the same footage | `output.mp4` (agent's render) vs `expected/reference.mp4` (the real original edit) | `scores.json`: multimodal judge — coherence 3/4, fidelity 3/4, technical 3/4 |
+| `examples/transition_fixed_judge/` | transition applied between two real shots | `output.mp4` — a real cross-dissolve | `scores.json`: 4/4 on all three axes, after fixing the judge prompt that previously penalized unrelated reference content |
+| `examples/reframe_crop_fix/` | verification that the object-fit/object-position crop fix actually works | `after_fix_frame.png` — single frame, subject correctly retained in a 9:16 crop | no bundled video: full multi-trial runs showed ~25% (1/4) end-to-end reliability on this task even after all fixes, and none of those trial runs were saved as bundles — reported as a number in the results table above, not smoothed into a cherry-picked clip |
+
 ## Repo layout
 
 ```

@@ -1,0 +1,1 @@
+Given this A-roll shot and 4 candidate next-shots (some real, some distractors from other footage), choose the correct next shot and place it immediately after with an appropriate cut.
